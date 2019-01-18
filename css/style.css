@@ -1,0 +1,21 @@
+.table {
+    border: 1px solid;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+table {
+    
+}
+
+.posicionarCabecalho {
+    text-align: center;
+}
+
+a {
+    color: aliceblue;
+}
+
+a:link { 
+    text-decoration:none;
+}
